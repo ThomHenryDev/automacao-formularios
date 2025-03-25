@@ -30,7 +30,7 @@ Este projeto automatiza o processo de login e preenchimento de formulários em u
 
 3. **Execute o script**:
    ```bash
-   python treino.py
+   python bot-automacao.py
    ```
 
 ⚠ **Importante:**
