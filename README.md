@@ -12,7 +12,7 @@ Este projeto automatiza o processo de login e preenchimento de formulários em u
 ## 🛠️ Estrutura do Repositório
 ```
 /
-├── bot-automacao.py          # Script de automação
+├── bot-automacao.py   # Script de automação
 ├── seu_arquivo.csv    # Base de dados para preenchimento
 ├── README.md          # Documentação do projeto
 ```
